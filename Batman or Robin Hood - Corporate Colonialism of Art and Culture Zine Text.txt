@@ -1,0 +1,54 @@
+PG1
+Anytime someone would ask my high school music production teacher about his time studying in college, he would tell the same story. One of his professors would ask his students for projects, then take his favorite and claim it as his own work, leaving him and his peers powerless to fight back. Then my teacher would talk about how to fight back, how copyright can protect the little guy against the big guy by providing an indisputable record. However, copyright is not always a “moral” tool.
+
+PG2
+One landmark case in music copyright history is Bridgeport Music Inc. V. Dimension Films. Bridgeport Music is what I consider a copyright conglomerate, a twisted version of Doctorow’s Investor,(1) a company that collects works not to distribute or catalog them, but purely to sue. In this case, Bridgeport Music sued Dimension Films for a sample used in N.W.A’s song “100 Miles and Runnin,” which contains only two seconds of the Funkadelic track “Get Off Your Ass and Jam” that Bridgeport claims to own. 
+The judge said, “get a license or do not sample, we do not see this as stifling creativity.”(2) In my opinion, this flies in the face of music history, taking a jab at rap, hip hop, and their predecessors specifically, genres which use sampling to recycle and reinvent culture.
+
+PG3
+Recently, GEMA(3) (non-profit organization of artists and creatives based in Germany) was in the news for winning a lawsuit against Suno, one of the most popular AI music creation companies. They alleged that Suno illegally scraped songs under their protection.(4) All that was required to reproduce these songs in Suno was “lyrics, a style, and a title.”(5) In this way Suno is a money laundering scheme for music. It allows people to take others’ songs, and create something nearly identical that they can claim as their own simply because it was filtered through Suno’s AI. 
+
+PG4
+Bridgeport Music is much closer to Suno in practice than GEMA. Both are known to steal and profit off of popular music.(6) Bridgeport acquired copyrights to funk and other genres popular in the 70s and 80s. Their angle? I can only assume it was to capitalize on the golden era of hip-hop and the rise of rap, both of which heavily utilized samples from this time period. They then sued with a “shotgun approach,” meaning that even if most failed, one of them would hit.(6) One cannot ignore the racist undertones of their targets, as they specifically targeted Black American culture. 
+
+PG5
+Dr. Ralf Weigand:(7) “If we don't want to do without man-made music in the future, we urgently need a legal framework that guarantees authors an appropriate share of the value created by AI providers.”(8)
+
+Tim Wu: “Copyright must continually work to ensure that the basic building blocks of creativity are available… for rap music, it means the freedom to sample. Rap’s constant reinvention… makes it what it is… Vibrant cultures borrow, remix and recast. Static cultures die.”(6)
+
+Footnotes:
+(1) McKenzie Wark, Sensoria; Thinkers for the Twenty-first century (Verso).
+
+(2)Wikipedia contributors, "Bridgeport Music, Inc. v. Dimension Films," Wikipedia, The Free Encyclopedia, https://en.wikipedia.org/w/index.php?title=Bridgeport_Music,_Inc._v._Dimension_Films&oldid=1337948248 (accessed October 13, 2026).
+
+(3) Gesellschaft für musikalische Aufführungs- und mechanische Vervielfältigungsrechte, or Society for Musical Performing and Mechanical Reproduction Rights in English.
+
+(4)GEMA Writers, Fair remuneration demanded: GEMA Files Lawsuit against Suno Inc. (GEMA Press Release) https://www.gema.de/en/w/press-release-lawsuit-against-suno (accessed October 13, 2026).
+
+(5) Virginie Berger, Suno Loses Copyright Lawsuit To GEMA—AI Music Companies Should Worry (Forbes August 5, 2026) https://www.forbes.com/sites/virginieberger/2026/08/05/suno-lost-to-gema-why-the-ruling-should-worry-ai-music-companies/ (accessed 13 October 2026).
+
+(6) Tim Wu, Jay-Z Versus the Sample Troll, The shady one-man corporation that’s destroying hip-hop (Slate November 16, 2006) https://slate.com/culture/2006/11/the-shady-one-man-corporation-that-s-destroying-hip-hop.html (accessed 13 October 2026).
+
+(7) Chairman of the GEMA supervisory board
+
+(8) From https://www.gema.de/en/w/press-release-lawsuit-against-suno.
+
+Fonts:
+
+Pixelzone - Public Domain
+
+Copyright (c) 2003-2011, Christophe Badani (badani@typophage.com), with Reserved Font Name Mister Pixel, VTF Mister Pixel.
+
+The PIXELJO Font has a 100% free open license, free to use for personal and commercial purposes. Designer by JVMIYO
+
+Copyright 2024 The Coral Pixels Project Authors (https://github.com/tanukifont/Coral-Pixels)
+
+Images:
+
+COVER https://comicbookplus.com/?dlid=40923
+INSIDE COVER https://comicbookplus.com/?dlid=11951
+PG1 https://comicbookplus.com/?dlid=36448
+PG2 https://comicbookplus.com/?dlid=11964
+PG3 https://comicbookplus.com/?dlid=47174
+PG4 https://comicbookplus.com/?dlid=47174
+PG5 https://comicbookplus.com/?dlid=45923
